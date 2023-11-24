@@ -4,17 +4,6 @@ require('./settings.js')
 require('./globalUtilities.js')
 require('./scrappingOperations.js')
 
-/*
-    Notes:
-        1. regexPattern represent a unit
-        2. 
-
-    There are two regex:
-        1. Line seek
-        2. Extracting specific data from line
-
-*/
-
 // MODIFY PROGRAM PARAMETERS
 regexPattern = {
     // Write your regexes that defines the line that stores your regex
